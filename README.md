@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there I'm Shayan 🤝🏾
 
-<!--
-**ShayanChk/ShayanChk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✍🏾 About Me 
+- Recent Graduate from Seneca College, Advanced Diploma in Computer Programming.
+- During my program I got familiar with different languages and concepts of programming. 
+- I have done various projects with different languages.
+ 
+💻 Tools & Languages I Use 
+| Skills | Languages/Tools |
+| --- | --- | 
+| Database Management	 | OracleSQL, MongoDB |
+| Programming Languages	| C++, C, Python, Java |
+| Web Development	 | HTML5, CSS, JavaScript, Node.js, Express.js, Django, xml |
+| Operating Systems	| Windows, Linux/Unix |
+| Other Tools and Platforms	| Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
