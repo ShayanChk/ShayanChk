@@ -2,7 +2,7 @@
 
 
 ✍🏾 About Me 
-- Recent Graduate from Seneca College, Advanced Diploma in Computer Programming.
+- I'm currently studying at Seneca college, pursuing a degree in Advanced Diploma. Passionate about coding and excited to learn     more!
 - During my program I got familiar with different languages and concepts of programming. 
 - I have done various projects with different languages.
  
