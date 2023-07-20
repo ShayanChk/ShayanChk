@@ -11,7 +11,7 @@
 | --- | --- | 
 | Database Management	 | OracleSQL, MongoDB |
 | Programming Languages	| C++, C, Python, Java |
-| Web Development	 | HTML5, CSS, JavaScript, Node.js, Express.js, Django, xml |
+| Web Development	 | HTML5, CSS, JavaScript |
 | Operating Systems	| Windows, Linux/Unix |
 | Other Tools and Platforms	| Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project |
 
