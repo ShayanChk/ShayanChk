@@ -1,4 +1,4 @@
-### Hi there I'm Shayan 🤝🏾
+### Hi there, I'm Shayan 🤝🏾
 
 
 ✍🏾 About Me
