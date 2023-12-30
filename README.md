@@ -7,20 +7,20 @@ A passionate data analyst based in Toronto, ON, with a strong foundation in data
  
 💻 Skills
 
-• SQL (SQL Server, MySQL, PostgreSQL) 
-• Python (Pandas, NumPy, SciPy, MatPlotLib) 
-• Google Sheets 
-• Excel (VLookup, Conditional Formatting, Pivot 
+• **SQL** (SQL Server, MySQL, PostgreSQL) 
+• **Python** (Pandas, NumPy, SciPy, MatPlotLib) 
+• **Google** Sheets 
+• **Excel** (VLookup, Conditional Formatting, Pivot 
 Tables, Macros) 
-• Jupyter 
-• Oracle 12 
-• Microsoft Power BI 
-• PowerPoint, Word, Share Point
+• **Jupyter** 
+• **Oracle** 12 
+• **Microsoft** Power BI 
+• **PowerPoint**, Word, Share Point
 
 Projects
 
-Identifying Duplicate Clients - Lumenus’s Project - October 2023:
+**Identifying Duplicate Clients** - Lumenus’s Project - October 2023:
 Leveraged Python to analyze and deduplicate extensive datasets, streamlining the process by implementing innovative comparison strategies.
 
-Data Cleanup - Lumenus’s Project - November 2023:
+**Data Cleanup - Lumenus’s Project** - November 2023:
 Led comprehensive data refinement using Excel and Python, resolving intricate data inconsistencies and enhancing accuracy.
