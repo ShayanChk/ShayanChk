@@ -20,7 +20,7 @@ Tables, Macros)
 
 • **Oracle** **12** 
 
-• **Microsoft** **Power BI **
+• **Microsoft** **Power BI**
 
 • **PowerPoint**, **Word**, **Share Point**
 
