@@ -11,18 +11,18 @@ A passionate data analyst based in Toronto, ON, with a strong foundation in data
 
 • **Python** (Pandas, NumPy, SciPy, MatPlotLib) 
 
-• **Google** Sheets 
+• **Google** **Sheets** 
 
 • **Excel** (VLookup, Conditional Formatting, Pivot 
 Tables, Macros) 
 
 • **Jupyter**
 
-• **Oracle** 12 
+• **Oracle** **12** 
 
-• **Microsoft** Power BI 
+• **Microsoft** **Power BI **
 
-• **PowerPoint**, Word, Share Point
+• **PowerPoint**, **Word**, **Share Point**
 
 📈 Projects
 
