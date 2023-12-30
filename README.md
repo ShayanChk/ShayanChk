@@ -2,16 +2,15 @@
 
 
 ✍🏾 About Me 
-- Recent Graduate from Seneca College, Advanced Diploma in Computer Programming". Passionate about coding and excited to learn     more!
-- During my program I got familiar with different languages and concepts of programming. 
-- I have done various projects with different languages.
+A passionate data analyst based in Toronto, ON, with a strong foundation in data and a knack for solving complex problems. My knowledge lies in utilizing a diverse set of tools to extract meaningful insights and drive decision-making processes. Here's a glimpse of what I bring to the table:
  
-💻 Tools & Languages I Use 
-| Skills | Languages/Tools |
-| --- | --- | 
-| Database Management	 | OracleSQL, MongoDB |
-| Programming Languages	| C++, C, Python, Java |
-| Web Development	 | HTML5, CSS, JavaScript |
-| Operating Systems	| Windows, Linux/Unix |
-| Other Tools and Platforms	| Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project |
-
+💻 Skills
+• SQL (SQL Server, MySQL, PostgreSQL) 
+• Python (Pandas, NumPy, SciPy, MatPlotLib) 
+• Google Sheets 
+• Excel (VLookup, Conditional Formatting, Pivot 
+Tables, Macros) 
+• Jupyter 
+• Oracle 12 
+• Microsoft Power BI 
+• PowerPoint, Word, Share Point
