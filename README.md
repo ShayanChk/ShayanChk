@@ -24,7 +24,7 @@ Tables, Macros)
 
 • **PowerPoint**, Word, Share Point
 
-Projects
+📈 Projects
 
 **Identifying Duplicate Clients** - Lumenus’s Project - October 2023:
 Leveraged Python to analyze and deduplicate extensive datasets, streamlining the process by implementing innovative comparison strategies.
