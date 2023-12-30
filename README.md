@@ -8,13 +8,20 @@ A passionate data analyst based in Toronto, ON, with a strong foundation in data
 💻 Skills
 
 • **SQL** (SQL Server, MySQL, PostgreSQL) 
+
 • **Python** (Pandas, NumPy, SciPy, MatPlotLib) 
+
 • **Google** Sheets 
+
 • **Excel** (VLookup, Conditional Formatting, Pivot 
 Tables, Macros) 
-• **Jupyter** 
+
+• **Jupyter**
+
 • **Oracle** 12 
+
 • **Microsoft** Power BI 
+
 • **PowerPoint**, Word, Share Point
 
 Projects
