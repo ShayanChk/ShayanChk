@@ -3,26 +3,23 @@
 
 ✍🏾 About Me
 
-A passionate data analyst based in Toronto, ON, with a strong foundation in data and a knack for solving complex problems. My knowledge lies in utilizing a diverse set of tools to extract meaningful insights and drive decision-making processes. Here's a glimpse of what I bring to the table:
+I am a Data Analyst and have been involved in various projects, including report preparation, with a special focus on Data Migration projects. I excel in fast-paced environments and am adept at delivering projects under tight deadlines. I am known for my analytical 
+thinking, problem-solving skills, and effective communication. I am eager to bring my experience to a new team, to face and tackle challenges, as well as to level up my skills in a high-quality environment. Here's of what I bring to the table:
  
 💻 Skills
 
-• **SQL** (SQL Server, MySQL, PostgreSQL) 
+• **SQL** (SQL Server, MySQL) 
 
-• **Python** (Pandas, NumPy, SciPy, MatPlotLib) 
+• **Python** (Pandas, NumPy, SciPy) 
 
 • **Google** **Sheets** 
 
 • **Excel** (VLookup, Conditional Formatting, Pivot 
 Tables, Macros) 
 
-• **Jupyter**
-
-• **Oracle** **12** 
-
 • **Microsoft** **Power BI**
 
-• **PowerPoint**, **Word**, **Share Point**
+• **PowerPoint**, **Word**, **Share Point**, **Outlook**
 
 📈 Projects
 
