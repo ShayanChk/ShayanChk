@@ -30,7 +30,7 @@ comprehensive comparison strategy by evaluating key client attributes, including
 aggregated these weights to quantify the overall similarity between potential duplicate clients. This innovative approach
 significantly accelerated the detection of duplicate entries, streamlining the overall process.
 
-**Data Cleanup - Lumenus’s Project**– Lumenus’s Project – Toronto, ON February 2024 
+**DATA CLEANUP - Lumenus’s Project**– Lumenus’s Project – Toronto, ON February 2024 
 ● In preparation for transitioning to a new database, the organization needed to clean up client data, including email, phone
 number, address, city, and province. I leveraged Python to write regular expressions that identified and corrected issues such
 as invalid phone numbers and emails, extracting comments from emails to their correct fields, and separating street names
