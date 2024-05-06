@@ -23,10 +23,17 @@ Tables, Macros)
 
 📈 Projects
 
-**Identifying Duplicate Clients** – Lumenus’s Project – Toronto, ON October 2023
-● Leveraged Python to efficiently analyze and deduplicate extensive datasets comprising tens of thousands of client records. First, employed Python to cleanse the data by eliminating extraneous spaces and commas. Next, implemented a comprehensive comparison strategy by evaluating key client attributes, including names, last names, Date of Birth, addresses, and parental information. Assigned weights ranging from one to three to each metric based on their significance and aggregated these weights to quantify the overall similarity between potential duplicate clients. This innovative approach significantly accelerated the detection of duplicate entries, streamlining the overall process. 
+**IDENTIFYING DUPLICATE CLIENTS** – Lumenus’s Project – Toronto, ON October 2023
+● Leveraged Python to efficiently analyze and deduplicate extensive datasets comprising tens of thousands of client records.
+First, employed Python to cleanse the data by eliminating extraneous spaces and commas. Next, implemented a
+comprehensive comparison strategy by evaluating key client attributes, including names, last names, Date of Birth, addresses,and parental information. Assigned weights ranging from one to three to each metric based on their significance and
+aggregated these weights to quantify the overall similarity between potential duplicate clients. This innovative approach
+significantly accelerated the detection of duplicate entries, streamlining the overall process.
 
 **Data Cleanup - Lumenus’s Project**– Lumenus’s Project – Toronto, ON February 2024 
-● In preparation for transitioning to a new database, the organization needed to clean up client data, including email, phone number, address, city, and province. I leveraged Python to write regular expressions that identified and corrected issues such 
-as invalid phone numbers and emails, extracting comments from emails to their correct fields, and separating street names from numbers. This method drastically sped up the cleaning process, enabling the correction of a large volume of data. For minor adjustments and to keep track of changes, I used Excel, which also facilitated the final update to the backend with the 
-cleaned data, streamlining the entire process. 
+● In preparation for transitioning to a new database, the organization needed to clean up client data, including email, phone
+number, address, city, and province. I leveraged Python to write regular expressions that identified and corrected issues such
+as invalid phone numbers and emails, extracting comments from emails to their correct fields, and separating street names
+from numbers. This method drastically sped up the cleaning process, enabling the correction of a large volume of data. For
+minor adjustments and to keep track of changes, I used Excel, which also facilitated the final update to the backend with the
+cleaned data, streamlining the entire process.
