@@ -14,12 +14,12 @@ challenges, as well as to level up my skills in a high-quality environment. Here
 
 • **Python** (Pandas, NumPy, SciPy) 
 
-• **Google** **Sheets** 
+• **Microsoft** **Power BI**
 
 • **Excel** (VLookup, Conditional Formatting, Pivot 
 Tables, Macros) 
 
-• **Microsoft** **Power BI**
+• **Google** **Sheets** 
 
 • **PowerPoint**, **Word**, **Share Point**, **Outlook**
 
