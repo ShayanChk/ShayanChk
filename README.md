@@ -3,10 +3,11 @@
 
 ✍🏾 About Me
 
-I am a Data Analyst and have been involved in various projects, including report preparation, with a special focus on Data Migration
-projects. I excel in fast-paced environments and am adept at delivering projects under tight deadlines. I am known for my analytical
-thinking, problem-solving skills, and effective communication. I am eager to bring my experience to a new team, to face and tackle
-challenges, as well as to level up my skills in a high-quality environment. Here's of what I bring to the table:
+Detail-oriented and analytical Data Analyst with a strong background in extracting, cleaning, and analyzing complex datasets in the IT
+sector. Proficient in utilizing advanced statistical methods and data visualization techniques to interpret trends and provide actionable
+insights. Skilled in database management, SQL querying, and proficiency in Python and business intelligence tools such as Power BI.
+Experienced in collaborating with cross-functional teams to optimize data-driven decision-making processes and enhance
+organizational efficiency. Strong problem-solving abilities combined with a meticulous attention to detail to ensure data accuracy and reliability. Here's of what I bring to the table:
  
 💻 Skills
 
