@@ -30,7 +30,7 @@ Tables, Macros)
 ● Leveraged Python to efficiently analyze and deduplicate extensive datasets comprising tens of thousands of client records.
 First, employed Python to cleanse the data by eliminating extraneous spaces and commas. Next, implemented a
 comprehensive comparison strategy by evaluating key client attributes, including names, last names, Date of Birth, addresses,and parental information. Assigned weights ranging from one to three to each metric based on their significance and
-aggregated these weights to quantify the overall similarity between potential duplicate clients. This innovative approach
+aggregated these weights to quantify the overall similarity between potential duplicate clients. This approach
 significantly accelerated the detection of duplicate entries, streamlining the overall process.
 
 **DATA CLEANUP - Lumenus’s Project**– Lumenus’s Project – Toronto, ON February 2024 
