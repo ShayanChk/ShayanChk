@@ -3,7 +3,7 @@
 
 ✍🏾 About Me
 
-Detail-oriented and analytical Data Analyst with a strong background in extracting, cleaning, and analyzing complex datasets in the IT
+Detail-oriented and analytical Data Analyst with a strong background in extracting, cleaning, and analyzing complex datasets in the healthcare
 sector. Proficient in utilizing advanced statistical methods and data visualization techniques to interpret trends and provide actionable
 insights. Skilled in database management, SQL querying, and proficiency in Python and business intelligence tools such as Power BI.
 Experienced in collaborating with cross-functional teams to optimize data-driven decision-making processes and enhance
